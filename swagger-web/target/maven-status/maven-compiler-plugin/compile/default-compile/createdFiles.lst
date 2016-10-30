@@ -1,0 +1,5 @@
+swagger\service\UserService.class
+swagger\pojo\User.class
+swagger\web\config\RestApiConfig.class
+swagger\form\LoginForm.class
+swagger\web\controller\ApiDemo.class
